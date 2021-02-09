@@ -13,7 +13,7 @@ namespace DevOps
 {
     public class Startup
     {
-        //chanes
+        //changes made
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
